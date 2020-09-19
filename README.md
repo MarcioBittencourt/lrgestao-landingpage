@@ -1,5 +1,4 @@
 # lrgestao-landingpage
-# Teste de integração de código no github 1234
 ## Project setup
 ```
 npm install
